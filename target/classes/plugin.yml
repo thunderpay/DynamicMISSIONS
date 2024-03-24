@@ -1,0 +1,9 @@
+name: DynamicMissionsPlugin
+version: 1.0
+author: DynamicMissionsPlugin
+main: com.thunderpay
+description: Plugin de Minecraft con sistema de misiones dinámicas
+commands:
+  mission:
+    description: Genera una nueva misión para el jugador
+    usage: /mission
